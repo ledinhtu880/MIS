@@ -76,10 +76,13 @@ Hệ thống sẽ được thiết kế để tự động hóa các quy trình 
 
 
 ## Quy trình hệ thống
-![Quy trình hệ thống](https://i.ibb.co/kQZbNZQ/Quy-tr-nh-h-th-ng.jpg)
+![Quy trình hệ thống](https://i.ibb.co/hRm7dfH/Systems.jpg)
 
-## Quy trình trên website
-![Quy trình trên website](https://i.ibb.co/XfH1qbh/Quy-tr-nh-tr-n-website.jpg)
+## Quy trình trên WooCommerce
+![Quy trình trên website](https://i.ibb.co/qY6M9Zm/Woo-Commerce.jpg)
 
-## Quy trình trên sàn Thương mại điện tử
-![Quy trình trên sàn TMĐT](https://i.ibb.co/TrHvvdq/Quy-tr-nh-tr-n-s-n-TM-T.jpg)
+## Quy trình trên Shopify
+![Quy trình trên sàn TMĐT](https://i.ibb.co/VqTWCPL/Shopify.jpg)
+
+## Quy trình trên Tiktok Shop
+![Quy trình trên sàn TMĐT](https://i.ibb.co/q0tjPZB/Tiktok-Shop.jpg)
